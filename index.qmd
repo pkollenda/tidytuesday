@@ -1,0 +1,11 @@
+---
+title: "Tidy Tuesday Posts"
+---
+
+Hey everyone 👋
+
+On this site I will keep my #TidyTuesday visualizations, and sometimes blog posts that go into detail on creating them.
+
+**2022-08-09:** [Look how big those (ferris) wheels are](posts/2022-08-09_ferriswheels.qmd) 
+
+![](output/2022-08-09_ferriswheels.png){width="400"}
