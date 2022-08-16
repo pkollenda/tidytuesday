@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: f5a9a47b-1d0c-4e3a-9feb-e32bbfae4782
+      url: 'https://quartopub.com/sites/philipp/philipps-tidy-tuesday-posts'
